@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1000" target="1.8" />
+      <module name="1001" target="1.8" />
+      <module name="1003" target="1.8" />
+      <module name="1005" target="1.8" />
+      <module name="1006" target="1.8" />
+      <module name="1007" target="1.8" />
+      <module name="1008" target="1.8" />
+      <module name="1009" target="1.8" />
+      <module name="1035" target="1.8" />
+      <module name="1038" target="1.8" />
+      <module name="1042" target="1.8" />
+      <module name="1052" target="1.8" />
+      <module name="1059" target="1.8" />
+      <module name="1071" target="1.8" />
+      <module name="1101" target="1.8" />
+      <module name="1129" target="1.8" />
+      <module name="1134" target="1.8" />
+      <module name="1245" target="1.8" />
+      <module name="1435" target="1.8" />
+      <module name="2060" target="1.8" />
+      <module name="2163" target="1.8" />
+      <module name="2318" target="1.8" />
+      <module name="cefetmg" target="1.5" />
+      <module name="L1" target="1.5" />
+      <module name="L2" target="1.5" />
+      <module name="lista1" target="1.5" />
+      <module name="rdc" target="1.5" />
+      <module name="src" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
